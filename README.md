@@ -1,5 +1,6 @@
 # Traklab
 import java.util.*;
+
 class EmployeeDetails
 
 {
